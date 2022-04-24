@@ -11,5 +11,5 @@
 | latest | **8.1** | 🔗 Aliases the latest stable version of PHP available (even if that version does not support all features yet). |
 
 
-:love: Inspired by:
+❤️ Inspired by:
 - https://github.com/tisuchi/laravel-docker
