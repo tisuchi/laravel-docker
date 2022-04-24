@@ -9,3 +9,7 @@
 | 8.1 | 8.1 | ✅ Everything. |
 | stable | **8.1** | 🔗 Aliases the latest stable version of PHP that supports all features of this docker image.  |
 | latest | **8.1** | 🔗 Aliases the latest stable version of PHP available (even if that version does not support all features yet). |
+
+
+# Inspired by:
+- https://github.com/tisuchi/laravel-docker
